@@ -1,0 +1,8 @@
+name: courage
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force that turns conviction into action when the action is frightening and costly.
+dependsOn: [fear, love, truth]
